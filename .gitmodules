@@ -1,0 +1,6 @@
+[submodule "level1-2"]
+	path = level1-2
+	url = https://github.com/ollven/level1-2
+[submodule "level1-1"]
+	path = level1-1
+	url = https://github.com/ollven/level1-1
