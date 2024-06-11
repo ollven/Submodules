@@ -4,6 +4,3 @@
 [submodule "level1-1"]
 	path = level1-1
 	url = https://github.com/ollven/level1-1
-[submodule "ollven_kotlin-gradle"]
-	path = ollven_kotlin-gradle
-	url = https://gitlab.com/tcqa-test/ollven_kotlin-gradle
