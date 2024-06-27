@@ -7,7 +7,7 @@
   <param name="branch" value="refs/heads/main" />
   <param name="ignoreKnownHosts" value="true" />
   <param name="secure:password" value="credentialsJSON:9fd10c2d-c48f-40aa-9156-19acfe23cab2" />
-  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="submoduleCheckout" value="NON_RECURSIVE_CHECKOUT" />
   <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/ollven/Submodules" />
   <param name="useAlternates" value="AUTO" />
