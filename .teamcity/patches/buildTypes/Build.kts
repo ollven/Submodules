@@ -11,5 +11,6 @@ accordingly, and delete the patch script.
 changeBuildType(RelativeId("Build")) {
     vcs {
         remove(RelativeId("HttpsGithubComOllvenSubmodulesRefsHeadsMain1"))
+        add(DslContext.settingsRoot.id!!)
     }
 }
